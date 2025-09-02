@@ -2,10 +2,6 @@
 
 This repository contains my experiments and learning progress throughout my journey of mastering **Python** and **Django**.
 
-## About
-
-In this repository, you'll find various projects, exercises, and small applications I’ve developed while exploring programming concepts in Python and learning to build web applications using Django.
-
 ## Technologies Used
 
 - **Python**: The main programming language for building the projects.
